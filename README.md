@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhtjernso
+- 👋 Hi, I’m @jhtjernsmo
 - 🌱 I’m currently learning IT, Front-End & App Development
 - 💻 Currently working on my portfolio still under construction: tjernsmo.dev
 
