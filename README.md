@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhtjernsmo
 - 🌱 I’m currently learning IT, Front-End & App Development
-- 💻 Portfolio: tjernsmodev.com
+- 💻 Portfolio: tjernsmo.dev
 
 <!---
 jhtjernsmo/jhtjernsmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
