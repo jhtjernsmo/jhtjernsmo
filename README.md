@@ -27,13 +27,6 @@ Here’s what I’m learning and working with:
 
 ---
 
-## 📈 GitHub Stats
-![Jhtjernsmo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhtjernsmo&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhtjernsmo&layout=compact&theme=radical)
-
----
-
 ## 🌟 Featured Projects
 Here are some of my recent projects:
 1. **[fremskridtlaks.no](https://fremskridtlaks.no/)** - Website for a local salmon farm - not public yet
