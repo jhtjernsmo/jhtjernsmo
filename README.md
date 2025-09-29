@@ -30,7 +30,6 @@ Here’s what I’m learning and working with:
 ## 🌟 Featured Projects
 Here are some of my recent projects:
 1. **[fremskridtlaks.no](https://fremskridtlaks.no/)** - Website for a local salmon farm
-2. **[Armies of The Burrow](https://armiesoftheburrow.com/)** - University project: This project was developed as part of a university assignment with a focus on building a browser-based strategy game using modern web development practices
 
 ---
 
