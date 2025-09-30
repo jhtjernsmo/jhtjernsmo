@@ -1,43 +1,50 @@
-# 👋 Hi, I’m **@jhtjernsmo**
+# Hi, I’m **Jonas Hollund Tjernsmo**
 
-🎓 **Aspiring Front-End Developer | App Developer**
+### Front-End Developer · App Development Student  
 
-🌟 Welcome to my GitHub profile! I am currently diving deep into the world of **IT**, honing my skills in **front-end development** and **app development**.
-
----
-
-## 🚀 About Me
-- 🌱 **Learning**: IT, Front-End Development, and App Development  
-- 🔭 **Projects**: Working on innovative solutions, websites and small-scale apps  
-- 💬 **Ask Me About**: HTML, CSS, JavaScript, React and beginner-friendly app development  
-- ⚡ **Fun Fact**: I also have a degree as a ship machinist
+I’m studying IT with a focus on front-end and mobile development. I enjoy building fast, accessible and user-friendly web and mobile experiences.  
 
 ---
 
-## 🌐 Connect With Me  
-📫 **Reach out to me** via my [social profiles](https://linktr.ee/jhtjernsmo) for collaboration or questions!
+## About Me
+- Structured and solution-oriented with a passion for technology and design  
+- Hands-on experience from both personal and client projects  
+- Skilled at taking ideas from concept to live websites and apps  
+- Background as a certified ship machinist, bringing problem-solving and discipline into tech  
 
 ---
 
-## 🛠️ Skills
-Here’s what I’m learning and working with:
-- **Programming Languages**: JavaScript, C#, TypeScript, Java
-- **Tools & Frameworks**: React, TailwindCSS, Bootstrap  
-- **Development Areas**: Responsive Web Design, Mobile App Development  
+## Skills
+**Languages & Frameworks**  
+JavaScript · TypeScript · C# · Java · Swift · Kotlin · .NET · React · React Native · Expo · Tailwind CSS · Bootstrap  
+
+**Databases & Tools**  
+MySQL · Git · GitHub · Figma  
+
+**Focus Areas**  
+Responsive Web Design · Mobile Development · Accessibility · OpenGIS (Geo/Map Data) · Performance Optimization · SEO  
 
 ---
 
-## 🌟 Featured Projects
-Here are some of my recent projects:
-1. **[fremskridtlaks.no](https://fremskridtlaks.no/)** - Website for a local salmon farm
+## Selected Projects
+- **[fremskridtlaks.no](https://fremskridtlaks.no/)**  
+  First live site I built – a corporate website for a salmon farm.  
+  Built with HTML, CSS, JavaScript (responsive design).  
+
+- **[zoellastudios.com](https://zoellastudios.com/)**  
+  Ongoing site maintenance and improvements for an online store.  
+  Built with WordPress, PHP.  
+
+- **BookDragons.no** (Planned, not released)  
+  A responsive online store concept using Shopify for a seamless e-commerce experience.  
 
 ---
 
-## 🔧 My Setup
-- **OS**: Windows / macOS
-- **Editor**: Visual Studio Code  / Andoid Studio / IntelliJ IDEA
-- **Browser**: Chrome
+## Connect
+- [GitHub](https://github.com/jhtjernsmo)  
+- [LinkedIn](https://linktr.ee/jhtjernsmo)  
+- Email: jonas@tjernsmohope.no  
 
 ---
 
-✨ *Thanks for stopping by! Feel free to star ⭐️ any projects you find interesting or reach out for collaboration!*  
+Thanks for visiting my profile.  
